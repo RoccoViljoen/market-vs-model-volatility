@@ -1,0 +1,18 @@
+# licensed CRSP data and raw downloads
+data/raw/
+
+# demo output (simulated data)
+results/synthetic_demo/
+
+# throwaway data check
+check_data.py
+
+# virtual environment
+.venv/
+
+# python
+__pycache__/
+.pytest_cache/
+
+# mac
+.DS_Store
